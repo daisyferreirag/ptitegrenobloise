@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to my Photo Book!"
+date:   2017-11-12 00:00:00 +0100
+categories: jekyll update
+---
+
+Write something to welcome

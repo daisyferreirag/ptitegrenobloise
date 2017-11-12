@@ -1,0 +1,23 @@
+-
+ title: Grenoble
+ directory: grenoble
+ preview:
+  filename: telepherique
+  original: telepherique-6000x4000.jpg
+  sizes:
+  - telepherique-4242x2828.jpg
+  - telepherique-2121x1414.jpg
+  - telepherique-2999x1999.jpg
+  thumbnail: telepherique-thumbnail.jpg
+-
+ title: Montpelier
+ directory: montpellier
+ #picture_path: ghent-light-festival/part1
+ preview:
+  filename: montpellier-front
+  original: montpellier-front-6000x4000.jpg
+  sizes:
+  - montpellier-front-2121x1414.jpg
+  - montpellier-front-2999x1999.jpg
+  - montpellier-front-4242x2828.jpg
+  thumbnail: montpellier-front-thumbnail.jpg
